@@ -40,7 +40,3 @@ This project successfully demonstrates the power of Azure's integrated tools in 
 - **Efficient Data Pipeline**: Automated the data ingestion, transformation, and modeling process.
 - **Secure Data Management**: Implemented robust security practices using Azure Key Vault.
 - **Insightful Analytics**: Generated valuable insights through Power BI dashboards, providing a historical analysis of FIFA World Cup data.
-
-## **Future Steps**
-- **Enhance Data Models**: Incorporate more advanced analytics to uncover deeper insights.
-- **Real-Time Processing**: Explore real-time data processing for more timely analysis.
